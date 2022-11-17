@@ -4,7 +4,7 @@
   "description": "Workshop react hands-on code",
   "main": "index.js",
   "dependencies": {
-    "next": "^8.1.0",
+    "next": "^13.0.3",
     "react-dom": "^16.8.6",
     "react": "^16.8.6"
   },
